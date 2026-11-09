@@ -1,0 +1,97 @@
+ticket_id,customer_id,status,category,segment_name,priority,route,tokens_used
+T0024,C0486,classified_json,fraud,At Risk,HIGH,security_team,58
+T0073,C0080,classified_json,billing,Frequent Buyers,NORMAL,support_queue,54
+T0095,C1087,classified_json,billing,At Risk,NORMAL,support_queue,56
+T0159,C1172,skipped_empty,,,NORMAL,human_review,0
+T0080,C0910,classified_json,billing,At Risk,NORMAL,support_queue,58
+T0124,C0139,classified_json,billing,Occasional,NORMAL,support_queue,58
+T0061,C0812,classified_json,billing,Frequent Buyers,NORMAL,support_queue,50
+T0118,C0355,classified_json,delivery,Frequent Buyers,NORMAL,support_queue,53
+T0037,C1156,classified_json,billing,Premium,HIGH,premium_desk,54
+T0002,C0881,classified_json,delivery,Occasional,NORMAL,support_queue,52
+T0163,C0322,flagged_long,,,NORMAL,human_review,0
+T0031,C0958,classified_json,billing,At Risk,NORMAL,support_queue,56
+T0047,C0756,classified_json,technical,Frequent Buyers,NORMAL,support_queue,45
+T0063,C0892,classified_json,technical,At Risk,NORMAL,support_queue,45
+T0121,C0852,classified_keyword,billing,At Risk,NORMAL,support_queue,58
+T0139,C0829,classified_json,technical,Occasional,NORMAL,support_queue,61
+T0115,C1025,classified_json,technical,Occasional,NORMAL,support_queue,45
+T0123,C0674,classified_json,technical,Frequent Buyers,NORMAL,support_queue,45
+T0116,C0294,flagged_invalid_output,,Frequent Buyers,NORMAL,human_review,58
+T0136,C0891,classified_json,fraud,At Risk,HIGH,security_team,52
+T0008,C1177,classified_json,fraud,At Risk,HIGH,security_team,58
+T0102,C0985,classified_json,delivery,At Risk,NORMAL,support_queue,56
+T0072,C0218,classified_json,billing,Frequent Buyers,NORMAL,support_queue,58
+T0101,C1151,classified_json,billing,Frequent Buyers,NORMAL,support_queue,54
+T0059,C0764,classified_json,technical,At Risk,NORMAL,support_queue,45
+T0049,C0078,classified_json,billing,Frequent Buyers,NORMAL,support_queue,54
+T0153,C0150,classified_json,billing,At Risk,NORMAL,support_queue,50
+T0050,C0117,classified_keyword,delivery,At Risk,NORMAL,support_queue,56
+T0147,C0125,classified_json,billing,Occasional,NORMAL,support_queue,56
+T0074,C1119,classified_json,delivery,Frequent Buyers,NORMAL,support_queue,52
+T0156,C0328,classified_json,fraud,At Risk,HIGH,security_team,58
+T0145,C0751,classified_json,billing,Frequent Buyers,NORMAL,support_queue,54
+T0053,C0447,classified_json,billing,Frequent Buyers,NORMAL,support_queue,54
+T0134,C0608,classified_json,delivery,At Risk,NORMAL,support_queue,56
+T0039,C0298,classified_json,technical,Frequent Buyers,NORMAL,support_queue,61
+T0016,C0962,flagged_invalid_output,,Occasional,NORMAL,human_review,58
+T0055,C1063,classified_json,technical,Occasional,NORMAL,support_queue,61
+T0130,C0692,classified_json,delivery,At Risk,NORMAL,support_queue,56
+T0099,C1000,classified_json,technical,Premium,HIGH,premium_desk,61
+T0062,C0403,classified_json,delivery,Occasional,NORMAL,support_queue,52
+T0013,C0507,classified_keyword,billing,At Risk,NORMAL,support_queue,58
+T0137,C0978,classified_json,billing,At Risk,NORMAL,support_queue,54
+T0152,C0530,classified_json,billing,Frequent Buyers,NORMAL,support_queue,58
+T0144,C0521,classified_json,billing,Occasional,NORMAL,support_queue,58
+T0094,C0863,classified_json,delivery,At Risk,NORMAL,support_queue,56
+T0021,C0909,classified_json,billing,Frequent Buyers,NORMAL,support_queue,50
+T0077,C0082,classified_json,billing,Premium,HIGH,premium_desk,50
+T0036,C0173,classified_json,billing,Frequent Buyers,NORMAL,support_queue,58
+T0113,C0077,classified_json,billing,At Risk,NORMAL,support_queue,50
+T0060,C0784,classified_json,fraud,At Risk,HIGH,security_team,58
+T0043,C0942,classified_json,technical,Premium,HIGH,premium_desk,45
+T0048,C0733,classified_json,fraud,Occasional,HIGH,security_team,52
+T0154,C1071,flagged_invalid_output,,Occasional,NORMAL,human_review,56
+T0125,C1156,classified_keyword,billing,Premium,HIGH,premium_desk,54
+T0146,C1024,classified_json,delivery,Premium,HIGH,premium_desk,53
+T0107,C0783,classified_json,technical,At Risk,NORMAL,support_queue,45
+T0011,C0233,classified_json,technical,At Risk,NORMAL,support_queue,61
+T0017,C0028,classified_json,billing,Occasional,NORMAL,support_queue,54
+T0111,C1033,classified_json,technical,Frequent Buyers,NORMAL,support_queue,45
+T0041,C0464,classified_json,billing,Occasional,NORMAL,support_queue,54
+T0120,C0208,classified_json,fraud,Frequent Buyers,HIGH,security_team,58
+T0122,C0404,classified_json,delivery,At Risk,NORMAL,support_queue,52
+T0001,C0851,classified_json,billing,At Risk,NORMAL,support_queue,54
+T0064,C0848,classified_json,fraud,Occasional,HIGH,security_team,58
+T0092,C0585,classified_json,fraud,Occasional,HIGH,security_team,52
+T0038,C0882,classified_json,delivery,At Risk,NORMAL,support_queue,52
+T0155,C0285,classified_keyword,technical,At Risk,NORMAL,support_queue,65
+T0104,C0815,classified_json,fraud,Occasional,HIGH,security_team,52
+T0012,C0335,classified_json,billing,Premium,HIGH,premium_desk,58
+T0084,C0569,flagged_invalid_output,,Occasional,NORMAL,human_review,58
+T0051,C1049,classified_json,technical,Frequent Buyers,NORMAL,support_queue,45
+T0143,C0339,classified_json,technical,Occasional,NORMAL,support_queue,61
+T0035,C1175,classified_json,billing,Frequent Buyers,NORMAL,support_queue,56
+T0028,C1036,classified_json,fraud,Occasional,HIGH,security_team,58
+T0100,C0754,classified_json,fraud,Occasional,HIGH,security_team,58
+T0022,C1160,classified_json,delivery,Occasional,NORMAL,support_queue,56
+T0082,C0168,classified_json,delivery,Occasional,NORMAL,support_queue,52
+T0127,C0976,classified_json,billing,At Risk,NORMAL,support_queue,56
+T0162,C0665,flagged_long,,,NORMAL,human_review,0
+T0109,C1080,classified_json,billing,Frequent Buyers,NORMAL,support_queue,54
+T0046,C0442,classified_keyword,delivery,Occasional,NORMAL,support_queue,60
+T0081,C0559,classified_json,billing,Frequent Buyers,NORMAL,support_queue,54
+T0007,C0682,classified_json,technical,Premium,HIGH,premium_desk,45
+T0068,C0208,classified_json,billing,Frequent Buyers,NORMAL,support_queue,58
+T0085,C0031,classified_json,billing,Frequent Buyers,NORMAL,support_queue,54
+T0075,C0901,classified_json,technical,Frequent Buyers,NORMAL,support_queue,61
+T0052,C1005,classified_json,fraud,At Risk,HIGH,security_team,58
+T0066,C1199,flagged_invalid_output,,Occasional,NORMAL,human_review,56
+T0151,C1011,classified_json,technical,Frequent Buyers,NORMAL,support_queue,45
+T0131,C0069,classified_json,technical,At Risk,NORMAL,support_queue,45
+T0006,C0177,classified_json,delivery,At Risk,NORMAL,support_queue,53
+T0135,C0303,classified_json,billing,Occasional,NORMAL,support_queue,56
+T0079,C1128,classified_json,technical,Occasional,NORMAL,support_queue,45
+T0040,C0256,classified_keyword,fraud,Frequent Buyers,HIGH,security_team,62
+T0093,C0131,classified_json,billing,Frequent Buyers,NORMAL,support_queue,54
+T0089,C0860,budget_exhausted,,,NORMAL,human_review,0
